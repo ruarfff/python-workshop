@@ -237,6 +237,16 @@ You can insert values into a string using the format method:
     'Hello Cruel World'
 ```
 
+Even better than that is to use [f-strings](https://realpython.com/python-f-strings/).
+
+```python
+    >>> hello = 'world'  # Note, this is a variable assignment, we will cover these in more detail soon
+    >>> f'hello {hello}' 
+    'hello world' 
+    >>> f'hello {1+1}' 
+    'hello 2''
+```
+
 See the official python tutorial on [strings](https://docs.python.org/3/tutorial/introduction.html#strings) for more information.
 
 ## Functions
