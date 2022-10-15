@@ -11,7 +11,7 @@ You are running in a Unix-like environment e.g.
 - WSL2
 - In a container
 
-If you are using straight-up Windows and have a good setup, please consider contributing to this workshop with instructions for Windows users.
+If you are using straight-up Windows, please take a look at [the Windows Setup instructions](./WINDOWS_SETUP.md).
 
 ## Installing Python
 
