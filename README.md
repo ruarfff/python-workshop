@@ -1,8 +1,8 @@
 # python-workshop
 
-A beginners python workshop.
+A beginner's python workshop.
 
-This workshop is broken up into multiple parts. In each part you will build on the previous parts to learn more about Python. The goal is to ensure you have your enviornment setup so you can run Python code and you know enough to write some basic Python programs.
+This workshop is in multiple parts, which you can do in sequence. The goal is to ensure you have your python development environment set up so you can run python code and know enough to write some basic python programs.
 
-- [part-1 - getting your environment setup](part-1-getting-your-environment-setup/README.md)
-- [part 2 - the REPL](part-2-the-repl/README.md)
+- [Part 1 - Getting your environment setup](part-1-getting-your-environment-setup/README.md)
+- [Part 2 - Introduction to Python using The REPL](part-2-introduction-to-python-using-the-repl/README.md)
